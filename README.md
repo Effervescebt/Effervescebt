@@ -2,9 +2,9 @@
 
 ## About Me
 
-I am an incoming Master's student in Machine Learning at **Carnegie Mellon University** (starting Fall 2026). I am currently completing my B.S. in Computer Engineering at the **University of Illinois at Urbana-Champaign (UIUC)**, where I have been fortunate to work with Prof. Jiaxuan You on multimodal AI and temporal reasoning in LLMs.
+I am a Master's student in Machine Learning at **Carnegie Mellon University** (starting Fall 2026). I have completed my B.S. in Computer Engineering at the **University of Illinois at Urbana-Champaign (UIUC)** with highest honor, where I have been fortunate to work with Prof. Jiaxuan You on multimodal AI and temporal reasoning in LLMs and Prof. Ying Diao on designing end-to-end ML pipeline.
 
-My interests span systems programming, machine learning, and web development. I enjoy building things from scratch and understanding how systems work at a fundamental level.
+My interests span software engineering, machine learning, multimodal reasoning, and safety. I enjoy building things from scratch and understanding how systems work at a fundamental level.
 
 Originally from **Nanjing, China**, I have a deep appreciation for all things cute — especially Kuromi. In my spare time, I am an avid player of Monster Hunter and CS2, enjoy creating with Blender, and play badminton regularly. My lifelong aspiration is to eat my way around the world.
 
@@ -30,5 +30,7 @@ Originally from **Nanjing, China**, I have a deep appreciation for all things cu
 ## Contact
 
 - **Homepage:** [Effervescebt.github.io](https://effervescebt.github.io)
-- **Location:** Champaign, IL
-- **Email:** haorul2@illinois.edu
+- **Linkedln:** https://www.linkedin.com/in/haoruli1123/
+- **Google Scholar:** https://scholar.google.com/citations?user=_NWjiOwAAAAJ&hl=en
+- **Location:** Pittsburgh, PA
+- **Email:** haorul@andrew.cmu.edu
